@@ -10,7 +10,11 @@
 Olá, me chamo **Pedro Henrique**, sou de São Paulo, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** 💼 
 
 **Meus interesses pessoais:**
-(Em Desenvolvimento)
+
+* 👨🏽‍💻 Estou estudando Redux que é uma biblioteca feita para gerenciar estados em uma aplicação.
+* 🎲 Meus Hobbies são RPG de Mesa e Jogos Online
+* 💼 Estou em transição de carreira para área de tecnologia
+* 📫 Por favor, envie um email para dckpedro@gmail.com para me encontrar.
 
 **Linguagens e ferramentas:**  
 
