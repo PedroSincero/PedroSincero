@@ -6,9 +6,11 @@
 </a>
 <br />
 <br />
+
 Meu nome é **Pedro Henrique** Tenho 21 anos, moro em São Paulo-Brasil, sou amante de RPG de Mesa e Tecnologia em geral, atualmente estou em transição de carreira para área de tecnologia, estudo **Desenvolvimento Web** na Trybe e desenvolvi habilidades em JavaScript, CSS, HTML, ES6, React, Jest. Além de Aprender Soft Skills(comunicação,liderança,empatia, etc) durante o processo de aprendizagem  . Estou progredindo em passos cada vezes maiores para ingressar no mercado de Tecnologia e me tornar um **Desenvolvedor Full-Stack Júnior** 💼 .
 
-<img src="https://epicorpg.com.br/wp-content/uploads/2019/03/Taverna-2.gif" align="right" alt="GIF" height="220px">
+<img src="https://epicorpg.com.br/wp-content/uploads/2019/03/Taverna-2.gif" align="right" alt="GIF" height="220px"/>
+
 **Meus interesses pessoais:**
 
 * 👨🏽‍💻 Estou estudando Redux que é uma biblioteca feita para gerenciar estados em uma aplicação.
