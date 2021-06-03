@@ -5,6 +5,7 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
 
 ## <p align="center">Sobre mim </p>
 <img src="https://epicorpg.com.br/wp-content/uploads/2019/03/Taverna-2.gif" align="right" alt="GIF" height="200px"/>
+
 - 🏠 Moro em São Paulo - Diadema.
  <br>
 - 💼 Estou em transição de carreira para área de tecnologia.
@@ -13,10 +14,9 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
  <br>
 - 🎮 Pretendo Futuramente trabalhar em desenvolvimento de Jogos.
  <br>
-- 👨🏽‍💻 Estou estudando Redux que é uma biblioteca feita para gerenciar estados em uma aplicação.
- <br>
-- 🏏 Sou um dos integrantes de um podcast chamado [Pantufas do Dragão](https://www.twitch.tv/pantufasdodragao/about), que é um podcast focado em  RPG, também fazemos livestreams na twitch.
+- 👨🏽‍💻 Estou estudando Redux que é uma biblioteca feita para gerenciar estados em uma aplicação. <br>
 
+- 🏏 Sou um dos integrantes de um podcast chamado [Pantufas do Dragão](https://www.twitch.tv/pantufasdodragao/about) , que é um podcast focado em  RPG, também fazemos livestreams na twitch.
 <br>
 <br>
 
