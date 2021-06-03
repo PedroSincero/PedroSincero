@@ -21,6 +21,7 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
 <br>
 
  ## <p align="center">Linguagens e ferramentas  </p>
+ <div  align="center">
   <a href="https://git-scm.com/doc" target="_blank">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   </a>
@@ -45,7 +46,8 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img height="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
   </a>
-  
+  <div/>
+ 
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosincero)](https://github.com/anuraghazra/github-readme-stats)
