@@ -45,8 +45,8 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
  
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosincero)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosincero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosincero)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosincero&layout=compact)]
 
 ---
   
