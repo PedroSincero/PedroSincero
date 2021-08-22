@@ -9,8 +9,6 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
 * 🏠 Moro em São Paulo - Diadema.
 * 💼 Estou em transição de carreira para área de tecnologia.
 * 🎲 Meus Hobbies são RPG de Mesa e Jogos Online.
-* 🎮 Pretendo Futuramente Estudar desenvolvimento de Jogos.
-* 👨🏽‍💻 Estou estudando MySQL que é um sistema gerenciador de banco de dados relacional de código aberto.
 * 🏏 Sou um dos integrantes de um podcast chamado [Pantufas do Dragão](https://www.twitch.tv/pantufasdodragao/about) , que é um podcast focado em  RPG, também fazemos livestreams na twitch.
 <br>
 <br>
