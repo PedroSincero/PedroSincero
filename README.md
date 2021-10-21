@@ -19,6 +19,9 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
      <a href="https://devdocs.io/javascript/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   </a>
+   <a href="https://docs.oracle.com/en/java/" target="_blank">
+   <code><img heigth="50" width="50" src="https://img.icons8.com/color/48/000000/java.png"></code>
+  </a>
   <div/>
   <h3>FRONT-END</h3>
     <a href="https://devdocs.io/javascript/" target="_blank">
