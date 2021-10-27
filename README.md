@@ -7,9 +7,10 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
 <img src="https://epicorpg.com.br/wp-content/uploads/2019/03/Taverna-2.gif" align="right" alt="GIF" height="200px"/>
 
 * 🏠 Moro em São Paulo - Diadema.
-* 💼 Estou em transição de carreira para área de tecnologia.
-* 🎲 Meus Hobbies são RPG de Mesa e Jogos Online.
-* 🏏 Sou um dos integrantes de um podcast chamado [Pantufas do Dragão](https://www.twitch.tv/pantufasdodragao/about) , que é um podcast focado em  RPG, também fazemos livestreams na twitch.
+* 💼 Estou em transição de carreira para área de tecnologia e daqui alguns meses já finalizo o meu curso na Trybe.
+* 🎲 Gosto bastante de Games/Livros/RPG de Mesa & Series/Animes e nas horas vagas invento de aprender algo totalmente novo, para sair da zona de conforto.
+* 🏏 Sou um dos integrantes de um podcast chamado [Pantufas do Dragão](https://www.twitch.tv/pantufasdodragao/about)  que é um podcast focado em  RPG, também fazemos livestreams na twitch.
+
 <br>
 <br>
 
