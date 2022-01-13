@@ -9,7 +9,6 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
 * 🏠 Moro em São Paulo - Diadema.
 * 💼 Estou em transição de carreira para área de tecnologia e daqui alguns meses já finalizo o meu curso na Trybe.
 * 🎲 Gosto bastante de Games/Livros/RPG de Mesa & Series/Animes e codar uns projetos pessoais, tanto para me divertir quanto para aprender algo novo.
-* 🏏 Sou um dos integrantes de um podcast chamado [Pantufas do Dragão](https://www.twitch.tv/pantufasdodragao/about)  que é um podcast focado em  RPG, também fazemos livestreams na twitch.
 
 <br>
 <br>
