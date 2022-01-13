@@ -27,15 +27,8 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
    </a>
   <div/>
   <h3>FRONT-END</h3>
-    <a href="https://devdocs.io/javascript/" target="_blank">
-   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
-  </a>  
+    <a href="https://styled-components.com/docs" target="_blank">
+   <code><img heigth="50" width="50" src="https://www.styled-components.com/atom.png"></code>
     <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
    <code><img heigth="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></code> 
   </a>
@@ -52,6 +45,9 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
    <a href="https://dev.mysql.com/doc/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code> 
   </a>
+   <a href="https://www.postgresql.org/" target="_blank">
+   <code><img heigth="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code> 
+  </a>
     <a href="https://www.mongodb.com/pt-br" target="_blank">
    <code><img height="50px" width="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"></code>
   </a>
@@ -59,6 +55,9 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
    <code><img height="50px" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png"></code>
         <a href="https://expressjs.com/pt-br/" target="_blank">
    <code><img height="50px" width="50" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle.png"></code>
+    <a href="https://www.docker.com/" target="_blank">
+   <code><img height="50px" width="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+  </a>
   </a>
   <h3>TESTES</h3>
     <a href="https://jestjs.io/docs/getting-started" target="_blank">
