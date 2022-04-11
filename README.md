@@ -1,5 +1,5 @@
 ## <p align="center">Pedro Henrique Pires do Nascimento </p>
-Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> Trybe e pretendo me tornar um Desenvolvedor Full-Stack Junior.
+Olá, sou Pessoa Instrutora na  <img align="left" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> Trybe.
 
 
 
@@ -7,7 +7,6 @@ Olá, sou Estudante de Desenvolvimento Web na <img align="left" src="https://ava
 <img src="https://epicorpg.com.br/wp-content/uploads/2019/03/Taverna-2.gif" align="right" alt="GIF" height="200px"/>
 
 * 🏠 Moro em São Paulo - Diadema.
-* 💼 Estou em transição de carreira para área de tecnologia e daqui alguns meses já finalizo o meu curso na Trybe.
 * 🎲 Gosto bastante de Games/Livros/RPG de Mesa & Series/Animes e codar uns projetos pessoais, tanto para me divertir quanto para aprender algo novo.
 
 <br>
