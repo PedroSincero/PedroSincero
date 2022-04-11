@@ -102,9 +102,6 @@ Olá, sou Pessoa Instrutora na  <img align="left" src="https://avatars2.githubus
 <p align="center">
   <a href="https://www.linkedin.com/in/denis-rossati/" target="_blank" /><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
-<a href="mailto:dckpedro@gmail.com" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail"  height="50" />
-</a>
 </p>
 <br />
 <br />
