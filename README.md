@@ -56,7 +56,6 @@ Meu nome é Pedro Henrique Pires mas também podem me chamar de Sincero, tenho 2
 ## 🌟 Github Stats
 
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrosincero&count_private=true&show_icons=true&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Pedro Sincero" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosincero&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Pedro Sincero" height="165" />
 </p>
 
