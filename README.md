@@ -13,7 +13,7 @@ Hello! Sou o Pedro Henrique Pires, mas podem me chamar de Sincero(é um apelido)
 
 ## 💫 Um pouco sobre mim
 
-<p>🔭 Estou em busca de novos desafios em desenvolvimento web  </p>
+<p>🔭 Estou em busca de novos desafios e oportunidades em desenvolvimento web  </p>
 <p>🌱 Finalizando Estudos de UI Design na <a href="https://www.origamid.com/">Origamid</a> e UX Design na <a href="https://www.coursera.org/professional-certificates/ux-design-do-google">Google</a></p>
 <p>💬 Me pergunte qualquer coisa responderei com sinceridade </p>
 <p>⚡  Curiosidade: sou fã do jogo <a href="https://store.steampowered.com/app/1150690/OMORI/">Omori</a> tenho até uma tatuagem </p>
