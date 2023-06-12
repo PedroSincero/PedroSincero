@@ -15,7 +15,7 @@ Meu nome é Pedro Henrique Pires mas também podem me chamar de Sincero, tenho 2
 
 ## 💫 Um pouco sobre mim
 
-<p>🔭 Atualmente estou trabalhando na <a href="https://www.betrybe.com/">Trybe</a> como Pessoa Instrutora de Front-end</p>
+<p>🔭 </p>
 <p>🌱 Estudando UI Design na <a href="https://www.origamid.com/">Origamid</a> e UX Design na <a href="https://www.coursera.org/professional-certificates/ux-design-do-google">Google</a></p>
 <p>💬 Me pergunte qualquer coisa sobre front-end responderei com sinceridade </p>
 <p>⚡  Curiosidade: sou fã do jogo <a href="https://store.steampowered.com/app/1150690/OMORI/">Omori</a> tenho até uma tatuagem </p>
