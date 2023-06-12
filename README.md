@@ -5,9 +5,9 @@
 <div>
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
   <p align="left">
-Meu nome é Pedro Henrique Pires mas também podem me chamar de Sincero, tenho 23 anos e sou apaixonado por tecnologia, desenvolvimento de sistemas e rpg maker.
-     Sou desenvolvedor web fullstack formado na Trybe e atualmente estou aprofundando meus conhecimentos em Front-end.
-     Sou de Diadema-SP que faz parte do ABC paulista,  gosto muito de rpg de mesa e sempre quando tem oportunidade eu mestro uma aventura com os meus amigos. Adoro contribuir com projetos e ajudar meus amigos nos desafios do dia a dia, principalmente quando envolve código.
+Meu nome é Pedro Henrique Pires mas também podem me chamar de Sincero, tenho 23 anos e sou apaixonado por tecnologia, desenvolvimento de sistemas e soluções além de gostar de rpg maker.
+     Sou desenvolvedor web front-end / back-end .
+     E moro em Diadema-SP que faz parte do ABC paulista,  gosto muito de rpg de mesa e sempre quando tem oportunidade eu mestro uma aventura com os meus amigos. Adoro contribuir com projetos e ajudar meus amigos nos desafios do dia a dia, principalmente quando envolve código.
   </p>
 </div>
 
