@@ -5,7 +5,7 @@
 <div>
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
   <p align="left">
-Hello! Sou o Pedro Henrique Pires, mas podem me chamar de Sincero(é um apelido). Sou um entusiasta da tecnologia e apaixonado por desenvolvimento de sistemas e soluções. Além disso, tenho um interesse especial no RPG Maker. Atuo como desenvolvedor web, tanto na parte front-end quanto back-end. Tenho grande prazer em contribuir em projetos e auxiliar pessoas que estão começando na area de desenvolvimento web em seus desafios diários, precisando e ajuda é só dar um toque o/.
+Hello! Sou o Pedro Henrique Pires, mas podem me chamar de Sincero(é um apelido). Apaixonado por tecnologia, desenvolvimento de sistemas e soluções. Sou desenvolvedor web, front-end / back-end. Tenho grande prazer em contribuir em projetos e auxiliar pessoas que estão começando na area de desenvolvimento web em seus desafios diários, precisando e ajuda é só dar um toque o/.
   </p>
 </div>
 
