@@ -14,7 +14,7 @@ Hello! Sou o Pedro Henrique Pires, mas podem me chamar de Sincero(é um apelido)
 ## 💫 Um pouco sobre mim
 
 <p>🔭 Estou em busca de novos desafios e oportunidades em desenvolvimento web  </p>
-<p>🌱 Finalizando meus estudos de Angular e Java na <a href="[https://www.origamid.com/](https://www.dio.me/)">Dio</a></p>
+<p>🌱 Finalizando meus estudos de Angular e Java na <a href="https://www.dio.me/">Dio</a></p>
 <p>💬 Me pergunte qualquer coisa responderei com sinceridade </p>
 <p>⚡  Curiosidade: sou fã do jogo <a href="https://store.steampowered.com/app/1150690/OMORI/">Omori</a> tenho até uma tatuagem </p>
 
