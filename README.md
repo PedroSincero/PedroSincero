@@ -51,13 +51,12 @@ Hello! Sou o Pedro Henrique Pires, mas podem me chamar de Sincero(é um apelido)
  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" style="margin-bottom: 4px;" height="30px">
 </p>
 
+<!--  
 ## 🌟 Github Stats
-
  <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=PedroSincero&count_private=true&show_icons=true&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Pedro Sincero" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosincero&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Pedro Sincero" height="165" />
-</p>
-
+</p> -->
 
 ## 🏆 Trofeus GitHub 
 
